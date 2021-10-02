@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176866139527",
+    "firebase_url": "https://english-learn-a97cc.firebaseio.com",
+    "project_id": "english-learn-a97cc",
+    "storage_bucket": "english-learn-a97cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176866139527:android:b35d0a40653dbe70968722",
+        "android_client_info": {
+          "package_name": "com.devramisha.englishlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176866139527-m1s7hbetnec6duhhrp5ia1r2von24sci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxlT-70jCVwVtkvA2o309BwGFR1J-h7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176866139527-m1s7hbetnec6duhhrp5ia1r2von24sci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
